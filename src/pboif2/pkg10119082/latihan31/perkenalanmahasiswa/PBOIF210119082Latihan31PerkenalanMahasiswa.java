@@ -22,20 +22,20 @@ public class PBOIF210119082Latihan31PerkenalanMahasiswa {
         // TODO code application logic here
         Mahasiswa mhs = new Mahasiswa ();
         
-        mhs.nim = "10119081";
-        mhs.nama = "Muhammad Elza";
+        mhs.nim = "10110269";
+        mhs.nama = "Rizki Adam Kurniawan";
         mhs.perkenalkanDiri();
         
-        mhs.nim = "10119082";
-        mhs.nama = "Zainul Rifqi";
+        mhs.nim = "10110270";
+        mhs.nama = "Indra Tiola";
         mhs.perkenalkanDiri();
 
-        mhs.nim = "10119083";
-        mhs.nama = "Rafsan Zen";
+        mhs.nim = "10110271";
+        mhs.nama = "Robi Tanzil Ganefi";
         mhs.perkenalkanDiri();
 
-        mhs.nim = "10110904";
-        mhs.nama = "Idris Mardefi";
+        mhs.nim = "10110269";
+        mhs.nama = "Muhammad Nur Awaluddin";
         mhs.perkenalkanDiri();
 
         
